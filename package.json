@@ -30,7 +30,7 @@
     "mana-font": "^1.4.1",
     "moment": "^2.24.0",
     "mtg-card-viewer": "^0.1.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "pixi.js": "^5.1.0",
     "react": "^16.8.6",
     "react-device-detect": "^1.7.5",
